@@ -12,7 +12,9 @@ h1 {
   font-size: 3.8rem;
   font-weight: bold;
 }
-
+.foot{
+  width: 12vw;
+}
 #tm-bg {
   position: fixed;
   top: 0;
