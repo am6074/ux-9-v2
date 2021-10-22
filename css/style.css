@@ -294,6 +294,14 @@ p {
   background-color: #77757d;
   color: white;
 }
+footer {
+  position: absolute;
+  bottom:0;
+  text-align: center;
+  left: 0;
+  right: 0;
+}
+
 
 .btn {
   padding: 0.5rem 2.4rem;
@@ -310,13 +318,6 @@ p {
   border-color: transparent;
 }
 
-footer {
-  position: absolute;
-  bottom:0;
-  text-align: center;
-  left: 0;
-  right: 0;
-}
 
 .tm-text-highlight {
   color: white;
