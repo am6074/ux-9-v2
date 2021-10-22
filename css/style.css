@@ -1,10 +1,4 @@
-/*
 
-Template 2097 Pop
-
-https://www.tooplate.com/view/2097-pop
-
-*/
 
 body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
@@ -33,13 +27,7 @@ h1 {
   transition: all 0.3s ease;
 }
 
-/* .overlay{
-  width: 100%;
-  height: 100%;
-  background-color: #0fff57;
-  opacity: 1;
-  background-size: cover;
-  } */
+
 .f2{
   position: absolute;
   bottom: 2rem;
@@ -431,7 +419,3 @@ p:last-child {
   }
 }
 
-/* .overlay{
-  background-color: #21212c;
-  opacity: 0.25;
-} */
