@@ -310,10 +310,9 @@ p {
   border-color: transparent;
 }
 
-/* Footer */
 footer {
   position: absolute;
-  bottom: 30px;
+  bottom:0;
   text-align: center;
   left: 0;
   right: 0;
